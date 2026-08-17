@@ -1,0 +1,16 @@
+CustID,Gender,Age_Group,Income_Level,Marital_Status,Purchased
+C1,Male,Young,Low,Single,No
+C2,Female,Young,Low,Single,No
+C3,Female,Middle,High,Married,Yes
+C4,Male,Middle,Medium,Married,Yes
+C5,Male,Senior,Medium,Married,Yes
+C6,Female,Senior,Low,Single,No
+C7,Female,Middle,High,Single,Yes
+C8,Male,Young,Medium,Single,No
+C9,Female,Young,High,Married,Yes
+C10,Male,Middle,Medium,Married,Yes
+C11,Female,Senior,Medium,Single,Yes
+C12,Male,Senior,Low,Married,No
+C13,Female,Middle,High,Married,Yes
+C14,Male,Young,Low,Married,No
+C15,Female,Senior,High,Single,Yes

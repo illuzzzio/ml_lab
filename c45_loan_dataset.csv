@@ -1,0 +1,15 @@
+AppID,Income_Thousands,Credit_Score,Employment_Type,Debt_Level,Loan_Approved
+A1,25,580,Self-Employed,High,No
+A2,85,720,Salaried,Low,Yes
+A3,42,610,Self-Employed,Medium,No
+A4,95,780,Salaried,Low,Yes
+A5,30,600,Business,High,No
+A6,60,690,Salaried,Medium,Yes
+A7,110,800,Business,Low,Yes
+A8,35,560,Self-Employed,High,No
+A9,70,705,Salaried,Medium,Yes
+A10,28,615,Business,Medium,No
+A11,90,760,Salaried,Low,Yes
+A12,48,630,Self-Employed,Medium,No
+A13,105,790,Business,Low,Yes
+A14,32,590,Self-Employed,High,No

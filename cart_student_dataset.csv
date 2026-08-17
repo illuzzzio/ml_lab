@@ -1,0 +1,16 @@
+StudentID,Study_Hours,Attendance_Percent,Assignments_Submitted,Extra_Classes,Final_Score,Result
+S1,2,60,3,No,42,Fail
+S2,8,95,10,Yes,88,Pass
+S3,3,65,4,No,48,Fail
+S4,6,85,8,Yes,76,Pass
+S5,1,55,2,No,35,Fail
+S6,9,98,10,Yes,93,Pass
+S7,4,70,5,No,54,Fail
+S8,7,50,3,No,55,Fail
+S9,5,90,9,Yes,71,Pass
+S10,8,60,9,Yes,85,Pass
+S11,2,58,3,No,40,Fail
+S12,6,80,7,No,72,Pass
+S13,9,96,10,Yes,90,Pass
+S14,5,88,8,No,58,Fail
+S15,7,92,9,Yes,79,Pass
